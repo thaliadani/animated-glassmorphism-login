@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Animated Glassmorphism Loginr</h1>
+<h1>Animated Glassmorphism Login</h1>
 </div><br>
 
 <div>
